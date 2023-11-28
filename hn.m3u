@@ -71,14 +71,6 @@ http://39.134.13.35:6610/180000001001/00000001000000001001000000000064/main.m3u8
 
 
 
-#EXTINF:-1,group-title="港澳台",HBO
-http://208.115.225.174:14136
-#EXTINF:-1,group-title="港澳台",HBO
-http://208.115.225.174:14165
-#EXTINF:-1,group-title="港澳台",HBO2
-http://208.115.225.174:14140
-#EXTINF:-1,group-title="港澳台",HBO原创
-http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 #EXTINF:-1,group-title="港澳台",J2 4K
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
 #EXTINF:-1,group-title="港澳台",RTHK31
@@ -89,8 +81,6 @@ http://198.16.100.90:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
 #EXTINF:-1,group-title="港澳台",八大第一
 http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
-#EXTINF:-1,group-title="港澳台",大爱
-http://50.7.238.114:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
 #EXTINF:-1,group-title="港澳台",翡翠
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 #EXTINF:-1,group-title="港澳台",翡翠
